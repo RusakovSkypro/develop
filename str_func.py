@@ -1,3 +1,2 @@
-def up():
-    pass
-    #return s1.upper()
+def up(line):
+    return line.upper()
